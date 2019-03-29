@@ -1,0 +1,327 @@
+--------------MOVIE---------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Country of Production: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+----------------------------------------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!--------------MOVIE---------------
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------------SONG-----------------------
+0
+Song name: Broken Clocks
+Preview song: https://p.scdn.co/mp3-preview/321a1445edbb8f68365ebcbc98d60c00bb7d234d?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Ctrl
+Artist: SZA
+---------------------------------------------------SONG-----------------------
+1
+Song name: Clocks
+Preview song: https://p.scdn.co/mp3-preview/24c7fe858b234e3cb21872cd03ab44b669163fbb?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: A Rush Of Blood To The Head
+Artist: Coldplay
+---------------------------------------------------SONG-----------------------
+2
+Song name: Wonderwall
+Preview song: https://p.scdn.co/mp3-preview/cffcc40b4cdac1717e00e4accb00548f49365d36?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Stop The Clocks
+Artist: Oasis
+---------------------------------------------------SONG-----------------------
+3
+Song name: WISH YOU WELL
+Preview song: null
+Album: None Of The Clocks Work
+Artist: Amir Obe
+---------------------------------------------------SONG-----------------------
+4
+Song name: CIGARETTES
+Preview song: null
+Album: None Of The Clocks Work
+Artist: Amir Obe
+---------------------------------------------------SONG-----------------------
+5
+Song name: Clocks - Live In Buenos Aires
+Preview song: https://p.scdn.co/mp3-preview/55d398535d597abc8143302f3ba8deff972e8b67?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Live In Buenos Aires
+Artist: Coldplay
+---------------------------------------------------SONG-----------------------
+6
+Song name: NATURALLY
+Preview song: null
+Album: None Of The Clocks Work
+Artist: Amir Obe
+---------------------------------------------------SONG-----------------------
+7
+Song name: Broken Clocks
+Preview song: https://p.scdn.co/mp3-preview/321a1445edbb8f68365ebcbc98d60c00bb7d234d?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Broken Clocks
+Artist: SZA
+---------------------------------------------------SONG-----------------------
+8
+Song name: Clocks - Coldplay
+Preview song: https://p.scdn.co/mp3-preview/2dd99fa42d53cf551741394ce99d4b353b3ddd4a?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: A Night In Strings
+Artist: Eklipse
+---------------------------------------------------SONG-----------------------
+9
+Song name: Clocks
+Preview song: https://p.scdn.co/mp3-preview/24c7fe858b234e3cb21872cd03ab44b669163fbb?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Clocks
+Artist: Coldplay
+---------------------------------------------------SONG-----------------------
+10
+Song name: Clocks
+Preview song: https://p.scdn.co/mp3-preview/3032f344010dbd823e1ed1fa7593e5d200494ba1?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Lullaby Renditions of Coldplay
+Artist: Rockabye Baby!
+---------------------------------------------------SONG-----------------------
+11
+Song name: Two Clocks
+Preview song: https://p.scdn.co/mp3-preview/41f363ff5307dff88fa277cac9b8f21121c4337e?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Atlas
+Artist: RÜFÜS DU SOL
+---------------------------------------------------SONG-----------------------
+12
+Song name: Clocks
+Preview song: null
+Album: Rhythms Del Mundo Cuba
+Artist: Rhythms Del Mundo
+---------------------------------------------------SONG-----------------------
+13
+Song name: Clocks Go Forward
+Preview song: null
+Album: Chaos And The Calm (Deluxe Edition)
+Artist: James Bay
+---------------------------------------------------SONG-----------------------
+14
+Song name: Grandfather Clocks
+Preview song: https://p.scdn.co/mp3-preview/71d50c4eead6c147d84a2efb5d6c828ed6f563d7?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Grandfather Clocks
+Artist: Mike Irish
+---------------------------------------------------SONG-----------------------
+15
+Song name: Clocks (feat. Lang Lang)
+Preview song: https://p.scdn.co/mp3-preview/e1e94389a5a6b7039a0a20ae69b84fd63cc5aad3?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: In2ition
+Artist: 2CELLOS
+---------------------------------------------------SONG-----------------------
+16
+Song name: No Clocks
+Preview song: https://p.scdn.co/mp3-preview/aa3c61e3e91dc4522c8794ac8ea96492d4b14b60?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Flyer Than Every Rapper
+Artist: Peanut Green the Mumble Rapper
+---------------------------------------------------SONG-----------------------
+17
+Song name: Broken Clocks
+Preview song: https://p.scdn.co/mp3-preview/bb551cd4d3e4f356258a0edcd7a7cf21cce79851?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Ctrl
+Artist: SZA
+---------------------------------------------------SONG-----------------------
+18
+Song name: Clocks
+Preview song: https://p.scdn.co/mp3-preview/e481579fedbaafec8184c20b82af05277473055e?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Taming Lions
+Artist: Oceans Ate Alaska
+---------------------------------------------------SONG-----------------------
+19
+Song name: Clocks
+Preview song: https://p.scdn.co/mp3-preview/8f7699883ce3bdb55b0cf5db5a447e75072e9b27?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: The Fantastic Pickin' on Series Bluegrass Sampler, Vol. 2
+Artist: Pickin' On Series
+--------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Glendale
+Date of the Event: 03/30/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Denver
+Date of the Event: 04/01/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Salt Lake City
+Date of the Event: 04/03/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Vancouver
+Date of the Event: 04/05/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: Pepsi Live at Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 04/06/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Glendale
+Date of the Event: 03/30/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Denver
+Date of the Event: 04/01/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Salt Lake City
+Date of the Event: 04/03/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Vancouver
+Date of the Event: 04/05/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: Pepsi Live at Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 04/06/2019
+----------------------------------------------------------------------------------MOVIE---------------
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Country of Production: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+----------------------------------------------------------------------------------
+Venue Name: Park MGM Las Vegas
+Venue Location: Las Vegas
+Date of the Event: 03/29/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: Park MGM Las Vegas
+Venue Location: Las Vegas
+Date of the Event: 03/30/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: PPG Paints Arena
+Venue Location: Pittsburgh
+Date of the Event: 04/18/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 04/20/2019
+-------------------------------------------------------------------------------------------------------------------------
+Venue Name: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 04/22/2019
+--------------------------------------------------------------------------------SONG-----------------------
+0
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+---------------------------------------------------SONG-----------------------
+1
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Millennium
+Artist: Backstreet Boys
+---------------------------------------------------SONG-----------------------
+2
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Covers Part IV
+Artist: Anthem Lights
+---------------------------------------------------SONG-----------------------
+3
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Beautiful Dreams
+Artist: Tyler and Mark
+---------------------------------------------------SONG-----------------------
+4
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Poodle Hat
+Artist: "Weird Al" Yankovic
+---------------------------------------------------SONG-----------------------
+5
+Song name: I Want It That Way
+Preview song: null
+Album: Punk Goes Pop
+Artist: Dynamite Boy
+---------------------------------------------------SONG-----------------------
+6
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: 90 Sweet 90s Hits!
+Artist: Backstreet Boys
+---------------------------------------------------SONG-----------------------
+7
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: NKOTBSB
+Artist: Backstreet Boys
+---------------------------------------------------SONG-----------------------
+8
+Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Glee Cast
+---------------------------------------------------SONG-----------------------
+9
+Song name: I Want It That Way
+Preview song: null
+Album: I Want It That Way
+Artist: Steel Panther
+---------------------------------------------------SONG-----------------------
+10
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Cover Sessions, Vol. 2
+Artist: Boyce Avenue
+---------------------------------------------------SONG-----------------------
+11
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: I Want It That Way
+Artist: Manuel Costa
+---------------------------------------------------SONG-----------------------
+12
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Ballads in Bossa (The Colors of Love Ballads)
+Artist: Marcelo Rezende
+---------------------------------------------------SONG-----------------------
+13
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Nu Funk
+Artist: Scary Pockets
+---------------------------------------------------SONG-----------------------
+14
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: I Want It That Way
+Artist: Mick Jensen
+---------------------------------------------------SONG-----------------------
+15
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: Selfies on Kodachrome
+Artist: Scott Bradlee's Postmodern Jukebox
+---------------------------------------------------SONG-----------------------
+16
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: The Essential "Weird Al" Yankovic
+Artist: "Weird Al" Yankovic
+---------------------------------------------------SONG-----------------------
+17
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: NOW That's What I Call 90s Pop
+Artist: Backstreet Boys
+---------------------------------------------------SONG-----------------------
+18
+Song name: I Want It That Way
+Preview song: null
+Album: Kidz Bop
+Artist: Kidz Bop Kids
+---------------------------------------------------SONG-----------------------
+19
+Song name: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=0e9ebd0304e54561b883bf598cfcac9c
+Album: #90s Update
+Artist: #90s Update
+---------------------------------------
