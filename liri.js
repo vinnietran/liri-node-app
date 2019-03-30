@@ -99,7 +99,7 @@ function showMovieInfo(input) {
         "\nTitle: " + response.data.Title +
         "\nRelease Year: " + response.data.Year +
         "\nIMDB Rating: " + response.data.imdbRating +
-        //console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value ); couldnt get rotten tomatoes to work for some reason
+        //console.log("Rotten Tomatoes Rating: " + response.data.Ratings.Value ); couldnt get rotten tomatoes to work for some reason
         "\nCountry of Production: " + response.data.Country +
         "\nLanguage: " + response.data.Language +
         "\nPlot: " + response.data.Plot +
